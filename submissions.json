@@ -1,0 +1,26 @@
+[
+  {
+    "roll": "ABC123",
+    "name": "Test",
+    "room": "101",
+    "hostel": "A",
+    "mobile": "9876543210",
+    "day": "Monday",
+    "time": "Day",
+    "foodType": "veg",
+    "menuItem": "Paneer",
+    "bookingDate": "2026-03-16"
+  },
+  {
+    "roll": "ABC123",
+    "name": "Test3",
+    "room": "103",
+    "hostel": "C",
+    "mobile": "9876543212",
+    "day": "Tuesday",
+    "time": "Night",
+    "foodType": "veg",
+    "menuItem": "Paneer",
+    "bookingDate": "2026-03-17"
+  }
+]
